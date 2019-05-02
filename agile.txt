@@ -1,0 +1,19 @@
+sprint - 2 tyzdne
+	- na konci nieco realne pouzitelne
+work itemy - epiky - 0-x ficuriek
+	- user story - nezavisla, testovatelna - jednotka odhadu story pointy - priorita
+	- task - backend, databaza - jednotka odhadu cas
+backlog - vsetky user stories v projekte
+sprint - 1. planning meeting - zakaznik a developer - user stories na tasky ktore sa ohodnotia
+			     - input - product backlog - prioritizacia
+				     - velocita 
+			     - sprint backlog je vysledkom
+			     - na zaciatku sprintu
+	- 2. scrum meeting - standup
+			   - kazdy den
+	- 3. retrospektiva - napravne opatrenia
+	- demoday - pre zakaznika
+SLEDOVANIE SPRINTOV
+KPI - key performance indicator
+burntdown chart - ked neklesa tak bud sa flakaju alebo cakaju na dalsie informacie alebo pridavaju nove veci
+
